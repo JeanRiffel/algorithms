@@ -1,7 +1,7 @@
 {
-  "name": "data-structures",
+  "name": "algorithms",
   "version": "1.0.0",
-  "description": "examples of data structures",
+  "description": "examples of algorithms",
   "dependencies": {
     "@types/jest": "^28.1.4",
     "jest": "^28.1.2",
