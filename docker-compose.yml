@@ -1,0 +1,8 @@
+version: "2.3"
+services:
+  algorithm:
+    container_name: algorithm
+    image: algorithm
+    build: .
+    ports:
+      - "3005:3000"
