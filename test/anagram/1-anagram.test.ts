@@ -1,4 +1,4 @@
-import Anagram from "../../src/anagram/1-anagram"
+import Anagram from "../../src/entity/anagram/Anagram"
 
 test('should be an anagram', ()=>{
     const anagram = new Anagram();
